@@ -15,3 +15,9 @@ Save researchers from the chaos of `thesis_FINAL_v3_REAL_USE_THIS.docx` — one 
 |Foxy | lead researcher | surviving file chaos|
 | Prof Lunga | Mentor | always have a repo for everything|
 | Maryblessing | Advisor | lead researchers our of chaos |
+
+### How to Contribute
+1. Fork the repo to create your own copy
+2. make needed adjustments in your copy, like adding your name as a collaborator
+3. push your adjustments to create a PR (pull request)
+4. wait for your contribution to get merged!
